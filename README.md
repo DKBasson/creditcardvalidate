@@ -6,6 +6,8 @@ Besides that, it also display all card numbers that has been saved during the Se
 
 Live version: https://dkbasson.com/rankinteractive/
 
+To run Locally, clone project and open up the index.html file within the build folder.
+
 ## Available Scripts
 
 In the project directory, you can run:
