@@ -1,7 +1,8 @@
 # About
 
 This react project is able to identify if a credit card number is valid or not.
-It is also able to identify if the inserted Country is Blacklisted (Black List is a user modifed text file).
+It is also able to identify if the inserted Country is Blacklisted (Black List is a user modifed text file (../src/blacklistedCountries.txt)).
+
 Besides that, it also display all card numbers that has been saved during the Session.
 
 Live version: https://dkbasson.com/rankinteractive/
