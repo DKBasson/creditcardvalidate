@@ -1,4 +1,4 @@
-# Getting Started
+# About
 
 This react project is able to identify if a credit card number is valid or not.
 It is also able to identify if the inserted Country is Blacklisted (Black List is a user modifed text file).
